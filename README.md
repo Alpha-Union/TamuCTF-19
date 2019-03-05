@@ -3,7 +3,7 @@
 
 I got this challenge after the completion of Science(Web) Challenge.
 
-This challenge is all about the Solve the vulnerability that has up with the given Challenge. :)
+This challenge is all about the Solving the vulnerability that has up with the given Challenge. :)
 
 I Just added simple Condition that which given vulnerable website to skip the Risks.
 
